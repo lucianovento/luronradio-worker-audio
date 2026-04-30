@@ -1,0 +1,5 @@
+runpod>=1.6.0
+f5-tts>=1.1.20
+pydub>=0.25.1
+soundfile>=0.13.0
+huggingface-hub>=0.36.0
