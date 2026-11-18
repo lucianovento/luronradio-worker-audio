@@ -1,5 +1,10 @@
 # Luron Radio — Worker de Audio (RunPod Serverless)
 
+> ⚠️ **RETIRADO / DEPRECADO (2026-11-18).** Este worker ya **no se usa**. El motor de
+> voz de Luron Radio pasó a ser **local** (Chatterbox Multilingual sobre GPU propia) y la
+> cuenta de **RunPod fue dada de baja**, así que este endpoint F5-TTS Serverless ya no
+> existe ni se factura. El repo se conserva solo como referencia histórica. No deployar.
+
 Worker TTS con voice cloning en español para Luron Radio.
 
 **Stack:** [F5-TTS](https://github.com/SWivid/F5-TTS) + modelo [F5-Spanish](https://huggingface.co/jpgallegoar/F5-Spanish) (700 horas de audio en español).
